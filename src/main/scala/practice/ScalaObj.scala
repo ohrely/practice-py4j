@@ -2,7 +2,7 @@ package practice
 
 import org.apache.spark.sql.DataFrameReader
 /**
-  * Created by rely10 on 9/11/17.
+  * Created by ohrely on 9/11/17.
   */
 object ScalaObj {
   def two(): Int = 2
